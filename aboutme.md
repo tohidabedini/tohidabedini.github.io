@@ -21,5 +21,5 @@ title: About me
   - I have got BSc degree in Computer Engineering from Iran University of Science and Technology under supervision of [Dr. Behrouz Minaei Bidgoli](http://minaei.iust.ac.ir/).
 
 
-* MSc in Computing Science (2020 – 2022)
+* MSc in Artificial Intelligence (2020 – 2022)
   - I am continuing my education as a master student in Artificial Intelligence at Iran University of Science and Technology from Fall 2020 under supervision of [Dr. Mohammad Reza Jahed Motlagh](http://ce.iust.ac.ir/content/1484/%D8%AF%DA%A9%D8%AA%D8%B1-%D8%AC%D8%A7%D9%87%D8%AF%D9%85%D8%B7%D9%84%D9%82).
