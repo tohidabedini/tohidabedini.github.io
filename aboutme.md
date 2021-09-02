@@ -51,4 +51,4 @@ title: About me
 #### Skills
  - Programming Languages: Python (Django, Flask, Selenium, Pytorch, TensorFlow, Keras, NLTK,...), C++, HDL (VHDL, Verilog), SQL and NoSQL Databases, HTML-CSS-JS 
 
- - Tools:  Have experience of working with Ubuntu Linux, MASON, Jupyter notebooks, Google Colab, Kaggle, Proteus, ModelSim SE,  PostgreSQL, MongoDB, SQL Server and familiar with Xilinx ISE Design, Vivado, Quartus
+ - Tools:  Have experience of working with Ubuntu Linux, MASON, Jupyter notebooks, Google Colab, Kaggle, Proteus, ModelSim SE,  PostgreSQL, MongoDB, MySQL and familiar with Xilinx ISE Design, Vivado, Quartus
