@@ -4,8 +4,8 @@ title: About me
 ---
 
 #### Research Interest
-* Machine Learning 
 * Deep Learning  
+* Reinforcement  Learning
 * Time Series Analysis
 * Natural Language Processing (Keyword extraction, Spell correction, Sentiment Analysis, …)
 * Image Processing (Image denoising, …)
