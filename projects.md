@@ -24,5 +24,6 @@ title: Projects
 *	Working on low power and light weight implementation of CNN's on hardware as a research project
 *	Design of a data base system for online shopping center for Database Systems Design course
 *	Implement a picture people presence system by image processing
-*	Implement Stock market simple prediction with time series analysis in deep learning course
+*	Openai-Gym Boxing Env with DQN for Artificial Intelligence course
+*	Implement Stock market simple prediction with time series analysis in Deep Learning course
 *	Final Project: Presentation and implementation of an algorithm for constituency parsing of sentences in Persian
