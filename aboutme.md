@@ -4,11 +4,11 @@ title: About me
 ---
 
 #### Research Interest
-* Time series prediction 
-* Sentiment Analysis
-* Keyword extraction
-* Spell correction
-* Image denoising
+* Machine Learning 
+* Deep Learning  
+* Time Series Analysis
+* Natural Language Processing (Keyword extraction, Spell correction, Sentiment Analysis, …)
+* Image Processing (Image denoising, …)
 * My goal is to design a stock market predictor system based on Artificial intelligence (Deep learning, Reinforcement learning,...) and Cognitive science.
 
 
