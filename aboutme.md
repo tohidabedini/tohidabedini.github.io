@@ -82,7 +82,7 @@ title: About me
     
 ##### Stock market: 
 
-    -	Familiar with technical analysis and stock market board analysis.
-    -	Experience in Stock market trading. 
-    -	Familiar with MetaTrader5, MQL5 (beginner). 
-    -	Familiar with trading robots architecture and working on them as my M.Sc. thesis (thesis subject is: Providing a Deep Reinforcement Learning based method for trading in  Cryptocurrency Market) – approval of subject is in progress.
+    *	Familiar with technical analysis and stock market board analysis.
+    *	Experience in Stock market trading. 
+    *	Familiar with MetaTrader5, MQL5 (beginner). 
+    *	Familiar with trading robots architecture and working on them as my M.Sc. thesis (thesis subject is: Providing a Deep Reinforcement Learning based method for trading in  Cryptocurrency Market) – approval of subject is in progress.
