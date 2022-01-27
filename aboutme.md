@@ -55,7 +55,9 @@ title: About me
 #### Skills
 •	Programming Languages, Tools and related environments:
   •	Familiar:
+  
     -	C++
+    
     -	NoSQL Databases
     -	ModelSim SE, Xilinx ISE Design, Vivado, Quartus
     -	MASON
