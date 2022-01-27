@@ -55,7 +55,7 @@ title: About me
 #### Skills
 *	Programming Languages, Tools and related environments:
 
-  **	Familiar:
+  *	Familiar:
   
     -	C++
     -	NoSQL Databases
@@ -65,7 +65,7 @@ title: About me
     -	Selenium
     -	NLTK
     
-  **	Intermediate:
+  *	Intermediate:
   
     -	HTML-CSS-JS
     -	HDL (VHDL, Verilog)
@@ -73,14 +73,14 @@ title: About me
     -	Ubuntu Linux
     -	TensorFlow
     
-  **	Advanced:
+  *	Advanced:
   
     -	Python
     -	Pytorch, Keras
     -	Jupyter notebooks, Google Colab, Kaggle
     -	Proteus
     
-*	Stock market: 
+Stock market: 
 
     -	Familiar with technical analysis and stock market board analysis.
     -	Experience in Stock market trading. 
