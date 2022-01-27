@@ -65,7 +65,9 @@ title: About me
     -	NLTK
     
   *	Intermediate:
-    -	HTML-CSS-JS
+    -	HTML
+    - CSS
+    - JS
     -	HDL (VHDL, Verilog)
     -	SQL (PostgreSQL, MongoDB, MySQL)
     -	Ubuntu Linux
