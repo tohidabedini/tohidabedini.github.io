@@ -56,7 +56,6 @@ title: About me
 ##### Programming Languages, Tools and related environments:
 
   *	Familiar:
-  
     -	C++
     -	NoSQL Databases
     -	ModelSim SE, Xilinx ISE Design, Vivado, Quartus
@@ -66,7 +65,6 @@ title: About me
     -	NLTK
     
   *	Intermediate:
-  
     -	HTML-CSS-JS
     -	HDL (VHDL, Verilog)
     -	SQL (PostgreSQL, MongoDB, MySQL)
@@ -74,7 +72,6 @@ title: About me
     -	TensorFlow
     
   *	Advanced:
-  
     -	Python
     -	Pytorch, Keras
     -	Jupyter notebooks, Google Colab, Kaggle
