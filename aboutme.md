@@ -55,26 +55,26 @@ title: About me
 #### Skills
 •	Programming Languages, Tools and related environments:
   •	Familiar:
-    •	C++
-    •	NoSQL Databases
-    •	ModelSim SE, Xilinx ISE Design, Vivado, Quartus
-    •	MASON
-    •	Django, Flask
-    •	Selenium
-    •	NLTK
+    -	C++
+    -	NoSQL Databases
+    -	ModelSim SE, Xilinx ISE Design, Vivado, Quartus
+    -	MASON
+    -	Django, Flask
+    -	Selenium
+    -	NLTK
   •	Intermediate:
-    •	HTML-CSS-JS
-    •	HDL (VHDL, Verilog)
-    •	SQL (PostgreSQL, MongoDB, MySQL)
-    •	Ubuntu Linux
-    •	TensorFlow
+    -	HTML-CSS-JS
+    -	HDL (VHDL, Verilog)
+    -	SQL (PostgreSQL, MongoDB, MySQL)
+    -	Ubuntu Linux
+    -	TensorFlow
   •	Advanced:
-    •	Python
-    •	Pytorch, Keras
-    •	Jupyter notebooks, Google Colab, Kaggle
-    •	Proteus
+    -	Python
+    -	Pytorch, Keras
+    -	Jupyter notebooks, Google Colab, Kaggle
+    -	Proteus
 •	Stock market: 
-    •	Familiar with technical analysis and stock market board analysis.
-    •	Experience in Stock market trading. 
-    •	Familiar with MetaTrader5, MQL5 (beginner). 
-    •	Familiar with trading robots architecture and working on them as my M.Sc. thesis (thesis subject is: Providing a Deep Reinforcement Learning based method for trading in  Cryptocurrency Market) – approval of subject is in progress.
+    -	Familiar with technical analysis and stock market board analysis.
+    -	Experience in Stock market trading. 
+    -	Familiar with MetaTrader5, MQL5 (beginner). 
+    -	Familiar with trading robots architecture and working on them as my M.Sc. thesis (thesis subject is: Providing a Deep Reinforcement Learning based method for trading in  Cryptocurrency Market) – approval of subject is in progress.
