@@ -72,6 +72,9 @@ title: About me
     -	SQL (PostgreSQL, MongoDB, MySQL)
     -	Ubuntu Linux
     -	TensorFlow
+    -	FastAPI
+    -	Flask
+
     
   *	Advanced:
     -	Python
