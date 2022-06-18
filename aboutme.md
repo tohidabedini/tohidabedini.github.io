@@ -29,16 +29,28 @@ title: About me
 
 * __Digital Design and VHDL__ ([Iran University of Science and Technology](http://www.iust.ac.ir/en))
   - (Fall 2018)
-  - Instructor: [Dr. Mohammad Reza Jahed Motlagh](http://ce.iust.ac.ir/content/1484/%D8%AF%DA%A9%D8%AA%D8%B1-%D8%AC%D8%A7%D9%87%D8%AF%D9%85%D8%B7%D9%84%D9%82)
+  - Instructor: [Dr. Mohammad Reza Jahed Motlagh](https://scholar.google.com/citations?user=i5G246QAAAAJ&hl=en)
 
 * __Computer Architecture and Design__ ([Iran University of Science and Technology](http://www.iust.ac.ir/en))
   - (Fall 2018 - Spring 2018 - Fall 2019)
-  - Instructor: [Dr. Mohsen Soryani](http://www.iust.ac.ir/content/1478/%D8%AF%DA%A9%D8%AA%D8%B1-%D8%B3%D8%B1%DB%8C%D8%A7%D9%86%DB%8C)
+  - Instructor: [Dr. Mohsen Soryani](https://scholar.google.com/citations?user=rRmDnbQAAAAJ&hl=en)
 
 * __Database Systems Design__ ([Iran University of Science and Technology](http://www.iust.ac.ir/en))
   - (Spring 2018 - Spring 2019 - Fall 2019)
-  - Instructor: [Dr. Eisa Zarepour](http://webpages.iust.ac.ir/zarepour/)
+  - Instructor: [Dr. Eisa Zarepour](https://scholar.google.com/citations?user=MgSbGaYAAAAJ&hl=en)
 
+* __Multi-Agent Systems __ ([Iran University of Science and Technology](http://www.iust.ac.ir/en))
+  - (Spring 2022)
+  - Instructor: [Dr. Nasser Mozayani](https://scholar.google.com/citations?hl=en&user=LAAM5tEAAAAJ)
+
+* __Natural Languages Processing __ ([Iran University of Science and Technology](http://www.iust.ac.ir/en))
+  - (Spring 2022)
+  - Instructor: [Dr. Behrouz Minaei-Bidgoli](https://scholar.google.com/citations?user=M8tgU-wAAAAJ&hl=en)
+
+* __Fundamentals of Computer Programming __ ([Iran University of Science and Technology](http://www.iust.ac.ir/en))
+  - (Spring 2022)
+  - Instructor: [Dr. Mehrdad Ashtiani](https://scholar.google.com/citations?user=dsdZaDAAAAAJ&hl=en)
+  
 #### Awards
  - Ranked 387th of region in national graduate school entrance examination. (The first 0.7 %)  August 2016 
  - Studying M.Sc. degree with GTO (Great Talents Organization) bonus - without entrance exam
@@ -61,8 +73,8 @@ title: About me
     -	ModelSim SE, Xilinx ISE Design, Vivado, Quartus
     -	MASON
     -	Django, Flask
-    -	Selenium
-    -	NLTK
+    -	Trello
+    -	WordPress
     
   *	Intermediate:
     -	HTML
@@ -74,8 +86,9 @@ title: About me
     -	TensorFlow
     -	FastAPI
     -	Flask
+    -	Selenium
+    -	NLTK
 
-    
   *	Advanced:
     -	Python
     -	Pytorch, Keras
