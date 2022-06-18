@@ -39,15 +39,15 @@ title: About me
   - (Spring 2018 - Spring 2019 - Fall 2019)
   - Instructor: [Dr. Eisa Zarepour](https://scholar.google.com/citations?user=MgSbGaYAAAAJ&hl=en)
 
-* __Multi-Agent Systems __ ([Iran University of Science and Technology](http://www.iust.ac.ir/en))
+* __Multi-Agent Systems__ ([Iran University of Science and Technology](http://www.iust.ac.ir/en))
   - (Spring 2022)
   - Instructor: [Dr. Nasser Mozayani](https://scholar.google.com/citations?hl=en&user=LAAM5tEAAAAJ)
 
-* __Natural Languages Processing __ ([Iran University of Science and Technology](http://www.iust.ac.ir/en))
+* __Natural Languages Processing__ ([Iran University of Science and Technology](http://www.iust.ac.ir/en))
   - (Spring 2022)
   - Instructor: [Dr. Behrouz Minaei-Bidgoli](https://scholar.google.com/citations?user=M8tgU-wAAAAJ&hl=en)
 
-* __Fundamentals of Computer Programming __ ([Iran University of Science and Technology](http://www.iust.ac.ir/en))
+* __Fundamentals of Computer Programming__ ([Iran University of Science and Technology](http://www.iust.ac.ir/en))
   - (Spring 2022)
   - Instructor: [Dr. Mehrdad Ashtiani](https://scholar.google.com/citations?user=dsdZaDAAAAAJ&hl=en)
   
