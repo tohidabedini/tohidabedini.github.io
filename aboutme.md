@@ -75,6 +75,7 @@ title: About me
     -	Django, Flask
     -	Trello
     -	WordPress
+    -	OpenStack
     
   *	Intermediate:
     -	HTML
