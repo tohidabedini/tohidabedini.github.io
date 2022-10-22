@@ -61,6 +61,7 @@ title: About me
 *	Azerbaijani (Native / Bilingual Proficiency) 
 * Persian (Native / Bilingual Proficiency) 
 *	Turkish (Limited Working Proficiency)
+*	German (Elementary Proficiency)
 *	Arabic (Elementary Proficiency)
 
 
