@@ -77,6 +77,8 @@ title: About me
     -	Trello
     -	WordPress
     -	OpenStack
+    -	Power BI
+    -	Docker
     
   *	Intermediate:
     -	HTML
@@ -90,6 +92,7 @@ title: About me
     -	Flask
     -	Selenium
     -	NLTK
+    -	Git
 
   *	Advanced:
     -	Python
