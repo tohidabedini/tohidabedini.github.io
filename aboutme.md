@@ -79,6 +79,9 @@ title: About me
     -	OpenStack
     -	Power BI
     -	Docker
+    -	SEO
+    -	Google Analytics
+
     
   *	Intermediate:
     -	HTML
