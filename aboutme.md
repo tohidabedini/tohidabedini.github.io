@@ -75,9 +75,7 @@ title: About me
     -	MASON
     -	Django, Flask
     -	Trello
-    -	WordPress
     -	OpenStack
-    -	Power BI
     -	Docker
     -	SEO
     -	Google Analytics
@@ -96,6 +94,8 @@ title: About me
     -	Selenium
     -	NLTK
     -	Git
+    -	Power BI
+    -	WordPress
 
   *	Advanced:
     -	Python
