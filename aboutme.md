@@ -73,18 +73,17 @@ title: About me
     -	NoSQL Databases
     -	ModelSim SE, Xilinx ISE Design, Vivado, Quartus
     -	MASON
-    -	Django, Flask
+    -	Flask
     -	Trello
     -	OpenStack
-    -	Docker
     -	SEO
     -	Google Analytics
 
-    
   *	Intermediate:
     -	HTML
     - CSS
     - JS
+    - Django
     -	HDL (VHDL, Verilog)
     -	SQL (PostgreSQL, MongoDB, MySQL)
     -	Ubuntu Linux
@@ -96,6 +95,7 @@ title: About me
     -	Git
     -	Power BI
     -	WordPress
+    -	Docker
 
   *	Advanced:
     -	Python
