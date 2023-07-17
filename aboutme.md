@@ -73,7 +73,6 @@ title: About me
     -	NoSQL Databases
     -	ModelSim SE, Xilinx ISE Design, Vivado, Quartus
     -	MASON
-    -	Flask
     -	Trello
     -	OpenStack
     -	SEO
