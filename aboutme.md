@@ -77,6 +77,7 @@ title: About me
     -	OpenStack
     -	SEO
     -	Google Analytics
+    -	R
 
   *	Intermediate:
     -	HTML
