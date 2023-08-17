@@ -70,7 +70,7 @@ title: About me
 
   *	Familiar:
     -	C++
-    -	NoSQL Databases
+    -	NoSQL Databases (MongoDB)
     -	ModelSim SE, Xilinx ISE Design, Vivado, Quartus
     -	MASON
     -	Trello
@@ -85,7 +85,7 @@ title: About me
     - JS
     - Django
     -	HDL (VHDL, Verilog)
-    -	SQL (PostgreSQL, MongoDB, MySQL)
+    -	SQL (PostgreSQL, MySQL)
     -	Ubuntu Linux
     -	TensorFlow
     -	FastAPI
