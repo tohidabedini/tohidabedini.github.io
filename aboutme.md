@@ -96,6 +96,7 @@ title: About me
     -	Power BI
     -	WordPress
     -	Docker
+    -	ChatGPT
 
   *	Advanced:
     -	Python
