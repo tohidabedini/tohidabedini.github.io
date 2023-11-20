@@ -12,6 +12,9 @@ title: Projects
 *	Keyword extraction for Persian with common algorithms and comparing them + gathering a dataset for it from open-source journals abstracts and suggested keywords ([DataMining Lab](http://dml.iust.ac.ir/))
 *	Working on Spell correction algorithm for Persian with a bi-directional LSTM model ([DataMining Lab](http://dml.iust.ac.ir/))
 *	Risk Analysis with Bayesian Networks
+*	NLP sequence classification project with BERTforSequenceClassification model
+*	Keypoint Analysis as Final Project for NLP course
+
 
 #### B.Sc.:
 *	Design of Mano computer in Proteus for Computer Architecture course
