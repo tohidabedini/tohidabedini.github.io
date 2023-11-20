@@ -97,6 +97,7 @@ title: About me
     -	WordPress
     -	Docker
     -	ChatGPT
+    -	Huggingface Models
 
   *	Advanced:
     -	Python
