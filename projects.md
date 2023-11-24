@@ -14,6 +14,7 @@ title: Projects
 *	Risk Analysis with Bayesian Networks
 *	NLP sequence classification project with BERTforSequenceClassification model
 *	Keypoint Analysis as Final Project for NLP course
+*	Railroad track classification by series of speed and acceleration of the train
 
 
 #### B.Sc.:
