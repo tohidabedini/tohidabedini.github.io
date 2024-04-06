@@ -57,7 +57,7 @@ title: About me
 
 
 #### Languages
-*	English (Professional Working Proficiency)
+*	English (Professional Working Proficiency) – TOEFL iBT 99
 *	Azerbaijani (Native / Bilingual Proficiency) 
 * Persian (Native / Bilingual Proficiency) 
 *	Turkish (Limited Working Proficiency)
@@ -98,6 +98,7 @@ title: About me
     -	Docker
     -	ChatGPT
     -	Huggingface Models
+    -	LLMs
 
   *	Advanced:
     -	Python
