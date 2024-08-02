@@ -4,13 +4,11 @@ title: About me
 ---
 
 #### Research Interest
-* Deep Learning  
-* Reinforcement  Learning
+* Natural Language Processing (Large Language Models, Keyword Extraction, Spell Correction, Sentiment Analysis, …)
 * Time Series Analysis (Stock prediction,...)
-* Natural Language Processing (Keyword extraction, Spell correction, Sentiment Analysis, …)
+* Deep Learning
+* Reinforcement  Learning
 * Image Processing (Image denoising, …)
-* My goal is to design a stock market predictor system based on Artificial intelligence (Deep learning, Reinforcement learning,...) and Cognitive science.
-
 
 #### Academic Background
 
