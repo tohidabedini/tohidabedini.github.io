@@ -96,8 +96,8 @@ title: About me
     -	Docker
     -	ChatGPT
     -	Huggingface Models
-    -	LLMs (vLLM, Ollama, LLaMA-Factory)
-    -	OpenAI APIs
+    -	LLMs (vLLM, Ollama, LLaMA-Factory, Open WebUI)
+    -	OpenAI APIs (batch mode and simple mode)
 
   *	Advanced:
     -	Python
