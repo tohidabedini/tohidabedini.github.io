@@ -84,7 +84,6 @@ title: About me
     - Django
     -	HDL (VHDL, Verilog)
     -	SQL (PostgreSQL, MySQL)
-    -	Ubuntu Linux
     -	TensorFlow
     -	FastAPI
     -	Flask
@@ -96,15 +95,17 @@ title: About me
     -	Docker
     -	ChatGPT
     -	Huggingface Models
-    -	LLMs (vLLM, Ollama, LLaMA-Factory, Open WebUI)
-    -	OpenAI APIs (batch mode and simple mode)
+    - Computer Networking (OpenWrt)
 
   *	Advanced:
     -	Python
     -	Pytorch, Keras
     -	Jupyter notebooks, Google Colab, Kaggle
     -	Proteus
-    
+    -	LLMs (vLLM, Ollama, LLaMA-Factory, Open WebUI)
+    -	OpenAI APIs (batch mode and simple mode)
+    -	Ubuntu Linux
+
 ##### Stock market: 
 
 *	Familiar with technical analysis and stock market board analysis.
