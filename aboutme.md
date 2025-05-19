@@ -93,7 +93,7 @@ title: About me
     -	Power BI
     -	WordPress
     -	Docker
-    -	ChatGPT
+    -	DeepSpeed
     -	Huggingface Models
     - Computer Networking (OpenWrt)
 
