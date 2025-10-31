@@ -96,6 +96,8 @@ title: About me
     -	DeepSpeed
     -	Huggingface Models
     - Computer Networking (OpenWrt)
+    - LangChain
+    - LangGraph
 
   *	Advanced:
     -	Python
