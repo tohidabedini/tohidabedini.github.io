@@ -64,23 +64,23 @@ title: About me
 
 
 #### Skills
-* Programming Languages:
+* __Programming Languages__:
    - Python, C++, HTML, CSS, JavaScript, SQL, R, VHDL, Verilog
-* LLMs / Generative AI:
+* __LLMs / Generative AI__:
    - vLLM, Ollama, LLaMA-Factory, Open WebUI, Transformers, Tokenizers, LangChain, LangGraph, OpenAI APIs (batch & simple), DeepSpeed, Embedding Models, Reranker Models
-* ML / DL / NLP:
+* __ML / DL / NLP__:
    - PyTorch, TensorFlow, Keras, NLTK, Scikit-Learn, stable-baselines3
-* Data Science & Analytics:
+* __Data Science & Analytics__:
    - Jupyter Notebooks, Google Colab, Kaggle, Power BI, Google Analytics
-* Web Development:
+* __Web Development__:
    - Django, Flask, FastAPI, WordPress, SEO, Selenium
-* Databases:
+* __Databases__:
    - MongoDB, PostgreSQL, MySQL, Milvus
-* FPGA / Digital Design:
+* __FPGA / Digital Design__:
    - ModelSim SE, Xilinx ISE Design, Vivado, Quartus, Proteus
-* Tools & Platforms:
+* __Tools & Platforms__:
    - Trello, Jira, Docker, Git, CI/CD, Linux, OpenStack, Esxi, Weights & Biases
-* Networking:
+* __Networking__:
    - Computer Networking,  OpenWrt
 
 
