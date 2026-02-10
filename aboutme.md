@@ -5,10 +5,10 @@ title: About me
 
 #### Research Interest
 * Natural Language Processing (Large Language Models, Keyword Extraction, Spell Correction, Sentiment Analysis, …)
-* Time Series Analysis (Stock prediction,...)
+* Machine Learning
 * Deep Learning
 * Reinforcement  Learning
-* Image Processing (Image denoising, …)
+* Time Series Analysis (Stock prediction,...)
 
 #### Academic Background
 
@@ -64,49 +64,25 @@ title: About me
 
 
 #### Skills
-##### Programming Languages, Tools and Related Environments:
+###### Programming Languages:
+    Python, C++, HTML, CSS, JavaScript, SQL, R, VHDL, Verilog
+###### LLMs / Generative AI:
+    vLLM, Ollama, LLaMA-Factory, Open WebUI, Transformers, Tokenizers, LangChain, LangGraph, OpenAI APIs (batch & simple), DeepSpeed, Embedding Models, Reranker Models
+###### ML / DL / NLP:
+    PyTorch, TensorFlow, Keras, NLTK, Scikit-Learn, stable-baselines3
+###### Data Science & Analytics:
+    Jupyter Notebooks, Google Colab, Kaggle, Power BI, Google Analytics
+###### Web Development:
+    Django, Flask, FastAPI, WordPress, SEO, Selenium
+###### Databases:
+    MongoDB, PostgreSQL, MySQL, Milvus
+###### FPGA / Digital Design:
+    ModelSim SE, Xilinx ISE Design, Vivado, Quartus, Proteus
+###### Tools & Platforms:
+    Trello, Jira, Docker, Git, CI/CD, Linux, OpenStack, Esxi, Weights & Biases
+###### Networking:
+    Computer Networking,  OpenWrt
 
-  *	Familiar:
-    -	C++
-    -	NoSQL Databases (MongoDB)
-    -	ModelSim SE, Xilinx ISE Design, Vivado, Quartus
-    -	MASON
-    -	Trello
-    -	OpenStack
-    -	SEO
-    -	Google Analytics
-    -	R
-
-  *	Intermediate:
-    -	HTML
-    - CSS
-    - JS
-    - Django
-    -	HDL (VHDL, Verilog)
-    -	SQL (PostgreSQL, MySQL)
-    -	TensorFlow
-    -	FastAPI
-    -	Flask
-    -	Selenium
-    -	NLTK
-    -	Git
-    -	Power BI
-    -	WordPress
-    -	Docker
-    -	DeepSpeed
-    -	Huggingface Models
-    - Computer Networking (OpenWrt)
-    - LangChain
-    - LangGraph
-
-  *	Advanced:
-    -	Python
-    -	Pytorch, Keras
-    -	Jupyter notebooks, Google Colab, Kaggle
-    -	Proteus
-    -	LLMs (vLLM, Ollama, LLaMA-Factory, Open WebUI)
-    -	OpenAI APIs (batch mode and simple mode)
-    -	Ubuntu Linux
 
 ##### Stock market: 
 
