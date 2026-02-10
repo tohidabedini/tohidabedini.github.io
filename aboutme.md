@@ -64,24 +64,24 @@ title: About me
 
 
 #### Skills
-###### Programming Languages:
-    Python, C++, HTML, CSS, JavaScript, SQL, R, VHDL, Verilog
-###### LLMs / Generative AI:
-    vLLM, Ollama, LLaMA-Factory, Open WebUI, Transformers, Tokenizers, LangChain, LangGraph, OpenAI APIs (batch & simple), DeepSpeed, Embedding Models, Reranker Models
-###### ML / DL / NLP:
-    PyTorch, TensorFlow, Keras, NLTK, Scikit-Learn, stable-baselines3
-###### Data Science & Analytics:
-    Jupyter Notebooks, Google Colab, Kaggle, Power BI, Google Analytics
-###### Web Development:
-    Django, Flask, FastAPI, WordPress, SEO, Selenium
-###### Databases:
-    MongoDB, PostgreSQL, MySQL, Milvus
-###### FPGA / Digital Design:
-    ModelSim SE, Xilinx ISE Design, Vivado, Quartus, Proteus
-###### Tools & Platforms:
-    Trello, Jira, Docker, Git, CI/CD, Linux, OpenStack, Esxi, Weights & Biases
-###### Networking:
-    Computer Networking,  OpenWrt
+* Programming Languages:
+   - Python, C++, HTML, CSS, JavaScript, SQL, R, VHDL, Verilog
+* LLMs / Generative AI:
+   - vLLM, Ollama, LLaMA-Factory, Open WebUI, Transformers, Tokenizers, LangChain, LangGraph, OpenAI APIs (batch & simple), DeepSpeed, Embedding Models, Reranker Models
+* ML / DL / NLP:
+   - PyTorch, TensorFlow, Keras, NLTK, Scikit-Learn, stable-baselines3
+* Data Science & Analytics:
+   - Jupyter Notebooks, Google Colab, Kaggle, Power BI, Google Analytics
+* Web Development:
+   - Django, Flask, FastAPI, WordPress, SEO, Selenium
+* Databases:
+   - MongoDB, PostgreSQL, MySQL, Milvus
+* FPGA / Digital Design:
+   - ModelSim SE, Xilinx ISE Design, Vivado, Quartus, Proteus
+* Tools & Platforms:
+   - Trello, Jira, Docker, Git, CI/CD, Linux, OpenStack, Esxi, Weights & Biases
+* Networking:
+   - Computer Networking,  OpenWrt
 
 
 ##### Stock market: 
